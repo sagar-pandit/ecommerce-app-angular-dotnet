@@ -2,19 +2,18 @@
 Full-stack learning project using **Angular**, **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL Server**.
 
 ## 📂 Project Structure
-
-/docs
-/diagrams
-use-case.puml
-er-diagram.drawio
-component.png
-sequence-add-to-cart.puml
-solution-architecture.md
-api-contract.md
-project-plan.md
-frontend-architecture.md
-backend-architecture.md
-README.md
+- /docs
+    - /diagrams
+      - use-case.puml
+      - er-diagram.drawio
+      - component.png
+      - sequence-add-to-cart.puml
+- solution-architecture.md
+- api-contract.md
+- project-plan.md
+- frontend-architecture.md
+- backend-architecture.md
+- README.md
 
 
 ## 🌟 Features
