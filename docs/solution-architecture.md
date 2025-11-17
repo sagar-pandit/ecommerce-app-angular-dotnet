@@ -2,7 +2,7 @@
 
 **Version:** 1.0
 
-**Prepared for:** Learner (Maya)
+**Prepared for:** Practice
 
 **Purpose:**
 This Solution Architecture Document captures the full, practical architecture for the learning-focused e-commerce application (Angular + ASP.NET Core + EF Core + SQL Server). It is written as if for a small engineering team, but tuned for a single developer learning journey.
